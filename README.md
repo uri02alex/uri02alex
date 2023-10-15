@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Алексей Урялников
-- 👀 I’m interested  разработками на java и androdd , PHP laravel
+- 👋 Hi, I’m  Алексей Урядников
+- 👀 I’m interested  разработками на java и android , PHP larave
 
 <!---
 uri02alex/uri02alex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
